@@ -7,7 +7,7 @@ A simple and clean calculator built with HTML, CSS, and JavaScript.
 ## 🔗 Links
 
 - **Live Demo:** [https://calculatorweb001.netlify.app/]
-- **GitHub Repo:** []
+- **GitHub Repo:** [https://github.com/SreetamDash/Calculator]
 
 ---
 
